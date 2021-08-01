@@ -1,0 +1,102 @@
+!DOCTYPE html>
+
+
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+      h1 {
+        text-align: center;
+      }
+
+    </style>
+
+
+  </head>
+
+<body>
+  <header> 
+    <h1>Manuel Pedrobelli Freelancer</h1>   
+  </header>
+  
+  <nav>
+    <a href="#">Inicio</a>
+    <a href="#">Sobre mi</a>
+    <a href="#">Proyectos</a>
+    <a href="contacto.html">Contactos</a>
+  </nav>
+
+    <p>
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-html5" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <path d="M20 4l-2 14.5l-6 2l-6 -2l-2 -14.5z" />
+        <path d="M15.5 8h-7l.5 4h6l-.5 3.5l-2.5 .75l-2.5 -.75l-.1 -.5" />
+      </svg></p>
+
+  <section> 
+     <h2>Diseño y desarrollo web freelancer</h2> 
+  <p>Trenque Lauquen, Buenos aires </p>
+  <a href='#'>Contactar</a> 
+ </section>
+
+
+<main>
+  <h2>Mis serivicios</h2>
+
+  <section>
+    <h3>Diseño web</h3>
+   <p><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brush" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+    <path d="M3 21v-4a4 4 0 1 1 4 4h-4" />
+    <path d="M21 3a16 16 0 0 0 -12.8 10.2" />
+    <path d="M21 3a16 16 0 0 1 -10.2 12.8" />
+    <path d="M10.6 9a9 9 0 0 1 4.4 4.4" />
+  </svg>
+  </p>
+
+
+
+    <h3>Aplicaciones web</h3>
+
+
+    <h3>E-commerce</h3>
+
+  </section>
+</main>   
+
+  <section>
+    <h2>Contacto</h2>
+  </section>
+  <form>
+      <fieldset>
+        <legend>Contactanos llenando los campos del formulario</legend>
+          <label>Nombre y Apellido</label>
+            <input type='text' placeholder="Ingrese su nombre y apellido">
+          <label>Ingrese su email</label>
+            <input type="email" placeholder="alguien@ejemplo.com">
+          <label>Mensaje</label>
+            <input type=
+      </fieldset>  
+
+
+
+  </form>
+
+
+  <footer>
+    <p>Todos los derechos reservados, Manuel Pedrobelli freelancer.</p>
+  </footer>
+
+</body>
+
+
+
+
+
+</html>
